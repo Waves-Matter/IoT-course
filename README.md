@@ -4,3 +4,4 @@ We were working with Raspberry Pi Pico W.
 Used CircuitPython.
 
 1. Making the LED light pulse, using PWM.
+2. Measuring temperature with NTC thermistor.
