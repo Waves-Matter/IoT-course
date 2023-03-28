@@ -1,7 +1,7 @@
 # IoT-course
-The tasks I have completed during the course of Internet of Things
+The tasks I have completed during the course of Internet of Things.
 We were working with Raspberry Pi Pico W.
-Used CircuitPython.
+CircuitPython was used.
 
 1. Making the LED light pulse, using PWM.
 2. Measuring temperature with NTC thermistor.
