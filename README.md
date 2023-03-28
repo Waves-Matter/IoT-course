@@ -5,3 +5,4 @@ Used CircuitPython.
 
 1. Making the LED light pulse, using PWM.
 2. Measuring temperature with NTC thermistor.
+3. Creating a simple webpage, which outputs temperature and processor's parameters. 
